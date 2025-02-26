@@ -169,7 +169,7 @@ ul li a:hover{
 }
 
 .icons i:hover {
-    transform: scale(1.2); /* Slightly enlarge on hover */
+    transform: scale(1.2); 
 }
 
 .contact p{
